@@ -12,20 +12,7 @@ body {
     color: white;
     position: relative;
 }
-.player1{
-    position: absolute;
-    left: 0px;
-    background-color: red;
-    width: 20vw;
-    height: 400px;
-}
-.player2{
-    position: absolute;
-    right: 0px;
-    background-color: red;
-    width: 20vw;
-    height: 400px;
-}
+
 /* Container Styles */
 .container {
     text-align: center;
@@ -132,6 +119,7 @@ button:active {
         font-size: 2rem;
     }
 }
+
 
 
 
